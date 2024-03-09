@@ -1,0 +1,7 @@
+# Request part of the service
+string current_mode
+string target_mode
+---
+# Response part of the service
+bool success
+string message
